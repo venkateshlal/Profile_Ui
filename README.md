@@ -1,4 +1,5 @@
-![image_2022-09-26_233517300](https://user-images.githubusercontent.com/111181152/192348556-69fae442-e3fb-4d89-a266-fe23672e705f.png)
+![image_2022-10-19_213141201](https://user-images.githubusercontent.com/111181152/196744146-884ed45e-1abf-4390-9f58-bcc8810e5f39.png)
+
 # flutter_application_chromicle
 
 A new Flutter project.
